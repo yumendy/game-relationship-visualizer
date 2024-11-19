@@ -1,0 +1,413 @@
+{
+  "players": [
+    {
+      "name": "夏亚",
+      "note": "墙上挂着",
+      "roles":  [
+        {
+          "name": "夏亚默默",
+          "server": "剑胆琴心",
+          "bodyType": "成男",
+          "sect": "明教",
+          "note": ""
+        },
+        {
+          "name": "偷吃辣条",
+          "server": "剑胆琴心",
+          "bodyType": "成男",
+          "sect": "天策",
+          "note": ""
+        },
+        {
+          "name": "弓德嘉伊",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "万灵",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "晓九",
+      "note": "高冷男神",
+      "roles":  [
+        {
+          "name": "晓九@归隐",
+          "server": "剑胆琴心",
+          "bodyType": "正太",
+          "sect": "纯阳",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "天凉",
+      "note": "建筑大师",
+      "roles":  [
+        {
+          "name": "阙道天凉",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "苍云",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "墨墨",
+      "note": "灵壮壮情侣，骚话精",
+      "roles": [
+        {
+          "name": "墨白歌",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "万花",
+          "note": "团长担当"
+        }
+      ]
+    },
+    {
+      "name": "弟弟",
+      "note": "所有人的弟弟",
+      "roles":  [
+        {
+          "name": "流川枫",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "七秀",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "胖次",
+      "note": "",
+      "roles":  [
+        {
+          "name": "猛男毒小精",
+          "server": "剑胆琴心",
+          "bodyType": "正太",
+          "sect": "五毒",
+          "note": ""
+        },
+        {
+          "name": "退堂鼓演奏家",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "五毒",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "馒头",
+      "note": "",
+      "roles":  [
+        {
+          "name": "默白白",
+          "server": "剑胆琴心",
+          "bodyType": "成女",
+          "sect": "五毒",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "东野",
+      "note": "油罐子",
+      "roles":  [
+        {
+          "name": "东野飞柏",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "藏剑",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "觉觉",
+      "note": "剑三主刀技美",
+      "roles":  [
+        {
+          "name": "没逝我先卦了",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "衍天",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "毛毛",
+      "note": "",
+      "roles":  [
+        {
+          "name": "叶世恭",
+          "server": "剑胆琴心",
+          "bodyType": "成男",
+          "sect": "藏剑",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "小柒",
+      "note": "小柒 360 梦回情止",
+      "roles":  [
+        {
+          "name": "情止",
+          "server": "剑胆琴心",
+          "bodyType": "成男",
+          "sect": "万花",
+          "note": ""
+        },
+        {
+          "name": "柒阮央",
+          "server": "剑胆琴心",
+          "bodyType": "成女",
+          "sect": "五毒",
+          "note": ""
+        },
+        {
+          "name": "江翁",
+          "server": "剑胆琴心",
+          "bodyType": "成男",
+          "sect": "蓬莱",
+          "note": ""
+        },
+        {
+          "name": "穷追",
+          "server": "剑胆琴心",
+          "bodyType": "成男",
+          "sect": "明教",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "耳机",
+      "note": "广州关山，少爷",
+      "roles":  [
+        {
+          "name": "带耳机喝奶茶",
+          "server": "剑胆琴心",
+          "bodyType": "正太",
+          "sect": "藏剑",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "阿桨",
+      "note": "书记",
+      "roles":  [
+        {
+          "name": "螺旋桨",
+          "server": "剑胆琴心",
+          "bodyType": "成男",
+          "sect": "药宗",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "羚羊",
+      "note": "",
+      "roles":  [
+        {
+          "name": "羚羊挂角",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "纯阳",
+          "note": ""
+        },
+        {
+          "name": "段芝芝",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "段氏",
+          "note": ""
+        },
+        {
+          "name": "斗木獬",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "万灵",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "小雨",
+      "note": "甜甜",
+      "roles":  [
+        {
+          "name": "雨翌@金榜题名",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "明教",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "小 青 梨",
+      "note": "甜甜妹子",
+      "roles":  [
+        {
+          "name": "小青梨",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "万花",
+          "note": ""
+        },
+        {
+          "name": "苏小八",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "七秀",
+          "note": ""
+        },
+        {
+          "name": "段游游",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "段氏",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "隐 洪",
+      "note": "肖恩老婆之一",
+      "roles":  [
+        {
+          "name": "隐洪",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "五毒",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "阿离",
+      "note": "",
+      "roles":  [
+        {
+          "name": "陆阿离",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "明教",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "包包",
+      "note": "四代小师妹",
+      "roles":  [
+        {
+          "name": "生煎包包",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "万灵",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "七天",
+      "note": "绯闻男女主",
+      "roles":  [
+        {
+          "name": "心事付瑶琴",
+          "server": "剑胆琴心",
+          "bodyType": "成男",
+          "sect": "长歌",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "星星",
+      "note": "七天 CP",
+      "roles":  [
+        {
+          "name": "弓佬",
+          "server": "剑胆琴心",
+          "bodyType": "成女",
+          "sect": "万灵",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "天海",
+      "note": "",
+      "roles":  [
+        {
+          "name": "烤冷面鲨手",
+          "server": "剑胆琴心",
+          "bodyType": "成男",
+          "sect": "明教",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "半仙",
+      "note": "男妈妈",
+      "roles":  [
+        {
+          "name": "韩半仙",
+          "server": "剑胆琴心",
+          "bodyType": "成男",
+          "sect": "天策",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "笙箫",
+      "note": "欧皇",
+      "roles": [
+        {
+          "name": "灵壮壮",
+          "server": "剑胆琴心",
+          "bodyType": "成女",
+          "sect": "万灵",
+          "note": "严禁黑本"
+        },
+        {
+          "name": "笙箫曲",
+          "server": "剑胆琴心",
+          "bodyType": "成男",
+          "sect": "明教",
+          "note": "主 T 担当"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    { "from": "夏亚默默", "to": "阙道天凉", "type": "师徒" , "note":  ""},
+    { "from": "阙道天凉", "to": "晓九@归隐", "type": "师徒" , "note":  ""},
+    { "from": "阙道天凉", "to": "东野飞柏", "type": "师徒" , "note":  ""},
+    { "from": "灵壮壮", "to": "墨白歌", "type": "情缘" , "note":  ""},
+    { "from": "灵壮壮", "to": "没逝我先卦了", "type": "师徒" , "note":  ""},
+    { "from": "灵壮壮", "to": "叶世恭", "type": "师徒" , "note":  ""},
+    { "from": "灵壮壮", "to": "情止", "type": "师徒" , "note":  ""},
+    { "from": "灵壮壮", "to": "小青梨", "type": "师徒" , "note":  ""},
+    { "from": "灵壮壮", "to": "生煎包包", "type": "师徒" , "note":  ""},
+    { "from": "情止", "to": "带耳机喝奶茶", "type": "师徒" , "note":  ""},
+    { "from": "情止", "to": "螺旋桨", "type": "师徒" , "note":  ""},
+    { "from": "情止", "to": "陆阿离", "type": "师徒" , "note":  ""},
+    { "from": "墨白歌", "to": "心事付瑶琴", "type": "师徒" , "note":  ""},
+    { "from": "墨白歌", "to": "烤冷面鲨手", "type": "师徒" , "note":  ""},
+    { "from": "雨翌@金榜题名", "to": "斗木獬", "type": "师徒" , "note":  ""},
+    { "from": "雨翌@金榜题名", "to": "弓德嘉伊", "type": "师徒" , "note":  ""},
+    { "from": "雨翌@金榜题名", "to": "小青梨", "type": "情缘" , "note":  ""},
+    { "from": "阙道天凉", "to": "笙箫曲", "type": "师徒" , "note":  ""}
+  ]
+}
