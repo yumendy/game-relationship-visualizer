@@ -50,6 +50,13 @@
           "bodyType": "萝莉",
           "sect": "苍云",
           "note": ""
+        },
+        {
+          "name": "白诡夜行",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "五毒",
+          "note": ""
         }
       ]
     },
@@ -363,8 +370,48 @@
         {
           "name": "韩半仙",
           "server": "剑胆琴心",
-          "bodyType": "成男",
+          "bodyType": "正太",
           "sect": "天策",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "暖暖",
+      "note": "",
+      "roles":  [
+        {
+          "name": "暖暖竹漪雪",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "七秀",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "香香",
+      "note": "",
+      "roles":  [
+        {
+          "name": "是香香",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "唐门",
+          "note": ""
+        },
+        {
+          "name": "段香香",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "段氏",
+          "note": ""
+        },
+        {
+          "name": "叶香香",
+          "server": "剑胆琴心",
+          "bodyType": "成男",
+          "sect": "藏剑",
           "note": ""
         }
       ]
@@ -408,6 +455,7 @@
     { "from": "雨翌@金榜题名", "to": "斗木獬", "type": "师徒" , "note":  ""},
     { "from": "雨翌@金榜题名", "to": "弓德嘉伊", "type": "师徒" , "note":  ""},
     { "from": "雨翌@金榜题名", "to": "小青梨", "type": "情缘" , "note":  ""},
+    { "from": "螺旋桨", "to": "白诡夜行", "type": "师徒" , "note":  ""},
     { "from": "阙道天凉", "to": "笙箫曲", "type": "师徒" , "note":  ""}
   ]
 }
