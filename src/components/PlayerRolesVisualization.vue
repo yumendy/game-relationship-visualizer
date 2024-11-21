@@ -1,5 +1,5 @@
 <template>
-  <div ref="chart" style="width: 90vh; height: 90vh;"></div>
+  <div ref="chart" style="width: 95vh; height: 95vh;"></div>
 </template>
 
 <script>
@@ -87,9 +87,12 @@ export default {
         series: [
           {
             type: 'graph',
-            layout: 'circular',
-            circular: {
-              rotateLabel: true
+            layout: 'force',
+            force: {
+              initLayout: 'circular',
+              gravity: 0.2,
+              repulsion: 600,
+              edgeLength: [30,50]
             },
             data: nodes,
             links: links,
