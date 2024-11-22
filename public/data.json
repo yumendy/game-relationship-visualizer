@@ -24,6 +24,13 @@
           "bodyType": "萝莉",
           "sect": "万灵",
           "note": ""
+        },
+        {
+          "name": "清汤羊肉砂锅",
+          "server": "剑胆琴心",
+          "bodyType": "成男",
+          "sect": "纯阳",
+          "note": ""
         }
       ]
     },
@@ -210,7 +217,15 @@
           "bodyType": "成女",
           "sect": "唐门",
           "note": ""
+        },
+        {
+          "name": "荀令",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "七秀",
+          "note": ""
         }
+
       ]
     },
     {
@@ -419,7 +434,7 @@
         {
           "name": "山风佐酒",
           "server": "剑胆琴心",
-          "bodyType": "成男",
+          "bodyType": "成女",
           "sect": "天策",
           "note": ""
         }
@@ -587,10 +602,251 @@
       "note": "恋爱脑小芳",
       "roles":  [
         {
-          "name": "安嫩爹",
+          "name": "酒玖玖",
+          "server": "剑胆琴心",
+          "bodyType": "成男",
+          "sect": "药宗",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "山鬼",
+      "note": "",
+      "roles":  [
+        {
+          "name": "山鬼于沐",
+          "server": "剑胆琴心",
+          "bodyType": "成男",
+          "sect": "苍云",
+          "note": "七天二徒弟"
+        }
+      ]
+    },
+    {
+      "name": "院长",
+      "note": "",
+      "roles":  [
+        {
+          "name": "前任男友",
           "server": "剑胆琴心",
           "bodyType": "成女",
-          "sect": "药宗",
+          "sect": "明教",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "飞扬",
+      "note": "",
+      "roles":  [
+        {
+          "name": "墨语花",
+          "server": "剑胆琴心",
+          "bodyType": "成男",
+          "sect": "万花",
+          "note": ""
+        },
+        {
+          "name": "云飞扬",
+          "server": "剑胆琴心",
+          "bodyType": "成男",
+          "sect": "霸刀",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "老柳",
+      "note": "",
+      "roles":  [
+        {
+          "name": "萧雁离",
+          "server": "剑胆琴心",
+          "bodyType": "成男",
+          "sect": "苍云",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "奈奈",
+      "note": "",
+      "roles":  [
+        {
+          "name": "奈奈呀",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "七秀",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "如衣",
+      "note": "",
+      "roles":  [
+        {
+          "name": "尊贵万花",
+          "server": "剑胆琴心",
+          "bodyType": "正太",
+          "sect": "万花",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "清 羽",
+      "note": "",
+      "roles":  [
+        {
+          "name": "清羽",
+          "server": "剑胆琴心",
+          "bodyType": "成男",
+          "sect": "唐门",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "一夜",
+      "note": "顶级团长",
+      "roles":  [
+        {
+          "name": "一夜不睡觉",
+          "server": "剑胆琴心",
+          "bodyType": "成女",
+          "sect": "天策",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "雪姐",
+      "note": "群里颜值担当",
+      "roles":  [
+        {
+          "name": "叶羡雪",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "藏剑",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "风烟",
+      "note": "半失踪人口",
+      "roles":  [
+        {
+          "name": "风烟晴晚",
+          "server": "剑胆琴心",
+          "bodyType": "成女",
+          "sect": "七秀",
+          "note": "笙箫大徒弟"
+        }
+      ]
+    },
+    {
+      "name": "相 叶 景",
+      "note": "灵壮壮的另一师父",
+      "roles":  [
+        {
+          "name": "相叶景",
+          "server": "剑胆琴心",
+          "bodyType": "成女",
+          "sect": "唐门",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "关山",
+      "note": "北京耳机",
+      "roles":  [
+        {
+          "name": "浴红衣",
+          "server": "梦江南",
+          "bodyType": "成女",
+          "sect": "藏剑",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "桃 花",
+      "note": "咸鱼胸口触摸者，桃花姐姐",
+      "roles":  [
+        {
+          "name": "桃花",
+          "server": "剑胆琴心",
+          "bodyType": "成男",
+          "sect": "纯阳",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "燕 宝",
+      "note": "笙箫四徒弟",
+      "roles":  [
+        {
+          "name": "燕宝",
+          "server": "乾坤一掷",
+          "bodyType": "成男",
+          "sect": "苍云",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "小峪",
+      "note": "",
+      "roles":  [
+        {
+          "name": "峪夕",
+          "server": "剑胆琴心",
+          "bodyType": "成女",
+          "sect": "五毒",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "精灵",
+      "note": "",
+      "roles":  [
+        {
+          "name": "蓝一月",
+          "server": "剑胆琴心",
+          "bodyType": "萝莉",
+          "sect": "唐门",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "媛媛",
+      "note": "",
+      "roles":  [
+        {
+          "name": "媛媛圆不圆",
+          "server": "剑胆琴心",
+          "bodyType": "成女",
+          "sect": "唐门",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "梦 西",
+      "note": "",
+      "roles":  [
+        {
+          "name": "梦西",
+          "server": "剑胆琴心",
+          "bodyType": "成女",
+          "sect": "七秀",
           "note": ""
         }
       ]
@@ -639,9 +895,15 @@
   ],
   "relationships": [
     { "from": "夏亚默默", "to": "阙道天凉", "type": "师徒" , "note":  ""},
+    { "from": "夏亚默默", "to": "尊贵万花", "type": "亲友" , "note":  ""},
+    { "from": "夏亚默默", "to": "一夜不睡觉", "type": "亲友" , "note":  ""},
+    { "from": "夏亚默默", "to": "叶羡雪", "type": "亲友" , "note":  ""},
+    { "from": "夏亚默默", "to": "清羽", "type": "亲友" , "note":  ""},
     { "from": "阙道天凉", "to": "晓九@归隐", "type": "师徒" , "note":  ""},
     { "from": "阙道天凉", "to": "东野飞柏", "type": "师徒" , "note":  ""},
     { "from": "阙道天凉", "to": "默白白", "type": "师徒" , "note":  ""},
+    { "from": "阙道天凉", "to": "前任男友", "type": "师徒" , "note":  ""},
+    { "from": "默白白", "to": "浴红衣", "type": "师徒" , "note":  ""},
     { "from": "灵壮壮", "to": "墨白歌", "type": "情缘" , "note":  ""},
     { "from": "灵壮壮", "to": "没逝我先卦了", "type": "师徒" , "note":  ""},
     { "from": "灵壮壮", "to": "叶世恭", "type": "师徒" , "note":  ""},
@@ -650,7 +912,11 @@
     { "from": "灵壮壮", "to": "生煎包包", "type": "师徒" , "note":  ""},
     { "from": "灵壮壮", "to": "澜寰", "type": "师徒" , "note":  ""},
     { "from": "灵壮壮", "to": "晴元元", "type": "师徒" , "note":  ""},
+    { "from": "灵壮壮", "to": "风烟晴晚", "type": "师徒" , "note":  ""},
+    { "from": "灵壮壮", "to": "燕宝", "type": "师徒" , "note":  "四徒弟"},
+    { "from": "相叶景", "to": "笙箫曲", "type": "师徒" , "note":  ""},
     { "from": "情止", "to": "带耳机喝奶茶", "type": "师徒" , "note":  ""},
+    { "from": "情止", "to": "峪夕", "type": "师徒" , "note":  ""},
     { "from": "情止", "to": "螺旋桨", "type": "师徒" , "note":  ""},
     { "from": "情止", "to": "陆阿离", "type": "师徒" , "note":  ""},
     { "from": "情止", "to": "羚羊挂角", "type": "师徒" , "note":  ""},
@@ -658,18 +924,24 @@
     { "from": "情止", "to": "北墨雪", "type": "师徒" , "note":  ""},
     { "from": "情止", "to": "青岩梦罢", "type": "师徒" , "note":  ""},
     { "from": "情止", "to": "登徒", "type": "情缘" , "note":  ""},
+    { "from": "萧雁离", "to": "情止", "type": "师徒" , "note":  ""},
+    { "from": "萧雁离", "to": "弓佬", "type": "师徒" , "note":  ""},
     { "from": "墨白歌", "to": "心事付瑶琴", "type": "师徒" , "note":  ""},
     { "from": "墨白歌", "to": "烤冷面鲨手", "type": "师徒" , "note":  ""},
     { "from": "墨白歌", "to": "江翁", "type": "师徒" , "note":  ""},
     { "from": "墨白歌", "to": "收破烂啦", "type": "师徒" , "note":  ""},
     { "from": "墨白歌", "to": "玄无祁", "type": "师徒" , "note":  ""},
     { "from": "墨白歌", "to": "笙箫曲", "type": "师徒" , "note":  ""},
+    { "from": "墨白歌", "to": "蓝一月", "type": "师徒" , "note":  ""},
+    { "from": "墨白歌", "to": "梦西", "type": "师徒" , "note":  ""},
     { "from": "墨白歌", "to": "韩半仙", "type": "亲友" , "note":  ""},
     { "from": "墨白歌", "to": "暖暖竹漪雪", "type": "亲友" , "note":  ""},
     { "from": "墨白歌", "to": "退堂鼓演奏家", "type": "亲友" , "note":  ""},
     { "from": "羚羊挂角", "to": "与咩", "type": "师徒" , "note":  ""},
     { "from": "羚羊挂角", "to": "隐洪", "type": "亲友" , "note":  ""},
-    { "from": "心事付瑶琴", "to": "安嫩爹", "type": "师徒" , "note":  ""},
+    { "from": "心事付瑶琴", "to": "酒玖玖", "type": "师徒" , "note":  ""},
+    { "from": "心事付瑶琴", "to": "山鬼于沐", "type": "师徒" , "note":  ""},
+    { "from": "云飞扬", "to": "前任男友", "type": "情缘" , "note":  ""},
     { "from": "退堂鼓演奏家", "to": "许之山", "type": "师徒" , "note":  ""},
     { "from": "雨翌@金榜题名", "to": "斗木獬", "type": "师徒" , "note":  ""},
     { "from": "雨翌@金榜题名", "to": "弓德嘉伊", "type": "师徒" , "note":  ""},
@@ -678,6 +950,11 @@
     { "from": "雨翌@金榜题名", "to": "段芝芝", "type": "师徒" , "note":  ""},
     { "from": "雨翌@金榜题名", "to": "小青梨", "type": "情缘" , "note":  ""},
     { "from": "螺旋桨", "to": "白诡夜行", "type": "师徒" , "note":  ""},
+    { "from": "韩半仙", "to": "奈奈呀", "type": "师徒" , "note":  ""},
+    { "from": "尊贵万花", "to": "清羽", "type": "情缘" , "note":  ""},
+    { "from": "晓九@归隐", "to": "流川枫", "type": "亲友" , "note":  ""},
+    { "from": "云飞扬", "to": "桃花", "type": "亲友" , "note":  ""},
+    { "from": "媛媛圆不圆", "to": "云飞扬", "type": "师徒" , "note":  ""},
     { "from": "阙道天凉", "to": "笙箫曲", "type": "师徒" , "note":  ""}
   ]
 }

@@ -1,5 +1,5 @@
 <template>
-  <div ref="chart" style="width: 95vh; height: 95vh;"></div>
+  <div ref="chart" style="width: 100vh; height: 95vh;"></div>
 </template>
 
 <script>
@@ -91,8 +91,8 @@ export default {
             force: {
               initLayout: 'circular',
               gravity: 0.2,
-              repulsion: 600,
-              edgeLength: [30,50]
+              repulsion: 450,
+              edgeLength: [20,25]
             },
             data: nodes,
             links: links,
